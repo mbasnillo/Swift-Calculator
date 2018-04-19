@@ -2,5 +2,5 @@
 A practice app for creating a calculator using Swift for iOS devices.
 
 ## TODO
-* Bug fixes
+* QoL fixes
 * Better UI
